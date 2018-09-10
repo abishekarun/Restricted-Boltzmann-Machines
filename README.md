@@ -2,7 +2,7 @@
 
 In this project, we try to build a movie recommendation system (binary) on movielens dataset using Restricted Boltzmann Machines. This project was done as a part of Deep Learning A-Z course on Udemy.
 
-The Jupyter notebook with standard rnn model can be found [here](https://github.com/Restricted-Boltzmann-Machines/blob/master/rbm.ipynb).
+The Jupyter notebook with RBM model can be found [here](https://github.com/abishekarun/Restricted-Boltzmann-Machines/blob/master/rbm.ipynb).
 
 The resources that helped me are:
 
